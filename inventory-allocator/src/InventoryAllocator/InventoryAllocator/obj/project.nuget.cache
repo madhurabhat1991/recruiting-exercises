@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NoqMi/g8uPTyU1lNg4Rj7uCWT6k5l4CZ+qtnwcTrhkN2OPkJWkGixRLCqKIatxF/FQ2yWLG0pj5b17QI3Da1PA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\madhu\\Downloads\\src\\InventoryAllocator\\InventoryAllocator\\InventoryAllocator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\madhu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

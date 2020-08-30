@@ -1,0 +1,124 @@
+ORDER
+{ apple: 1 }
+INVENTORY BEFORE
+{ owd: { apple: 1 } }
+INVENTORY AFTER
+{ owd: { apple: 0 } }
+SHIPMENT
+{ owd: { apple: 1 } }
+
+ORDER
+{ apple: 1 }
+INVENTORY BEFORE
+{ owd: { apple: 0 } }
+INVENTORY AFTER
+{ owd: { apple: 0 } }
+SHIPMENT
+
+
+ORDER
+{ apple: 10 }
+INVENTORY BEFORE
+{ owd: { apple: 5 } } { dm: { apple: 5 } }
+INVENTORY AFTER
+{ owd: { apple: 0 } } { dm: { apple: 0 } }
+SHIPMENT
+{ dm: { apple: 5 } } { owd: { apple: 5 } }
+
+ORDER
+{ apple: 0 }
+INVENTORY BEFORE
+{ owd: { apple: 5 } }
+INVENTORY AFTER
+{ owd: { apple: 5 } }
+SHIPMENT
+
+
+ORDER
+{ apple: 16 }
+INVENTORY BEFORE
+{ owd: { apple: 3 } } { ft: { apple: 7 } } { dm: { apple: 8 } }
+INVENTORY AFTER
+{ owd: { apple: 0 } } { ft: { apple: 0 } } { dm: { apple: 2 } }
+SHIPMENT
+{ dm: { apple: 6 } } { ft: { apple: 7 } } { owd: { apple: 3 } }
+
+ORDER
+{ apple: 1 banana: 3 }
+INVENTORY BEFORE
+{ owd: { apple: 2 } }
+INVENTORY AFTER
+{ owd: { apple: 1 } }
+SHIPMENT
+{ owd: { apple: 1 } }
+
+ORDER
+{ apple: 1 banana: 3 }
+INVENTORY BEFORE
+{ dm: { apple: 6 banana: 8 } }
+INVENTORY AFTER
+{ dm: { apple: 5 banana: 5 } }
+SHIPMENT
+{ dm: { apple: 1 banana: 3 } }
+
+ORDER
+{ apple: 6 banana: 4 orange: 8 }
+INVENTORY BEFORE
+{ mgt: { apple: 3 banana: 1 orange: 1 } } { nyt: { apple: 1 banana: 2 orange: 3 } } { dm: { apple: 5 banana: 1 orange: 7 } }
+INVENTORY AFTER
+{ mgt: { apple: 0 banana: 0 orange: 0 } } { nyt: { apple: 0 banana: 0 orange: 0 } } { dm: { apple: 3 banana: 0 orange: 3 } }
+SHIPMENT
+{ dm: { apple: 2 banana: 1 orange: 4 } } { mgt: { apple: 3 banana: 1 orange: 1 } } { nyt: { apple: 1 banana: 2 orange: 3 } }
+
+ORDER
+{ apple: 6 banana: 4 orange: 8 }
+INVENTORY BEFORE
+{ mgt: { apple: 3 banana: 1 orange: 1 } } { nyt: { apple: 1 banana: 2 orange: 3 } } { dm: { apple: 5 banana: 1 orange: 2 } }
+INVENTORY AFTER
+{ mgt: { apple: 0 banana: 0 orange: 0 } } { nyt: { apple: 0 banana: 0 orange: 0 } } { dm: { apple: 3 banana: 0 orange: 0 } }
+SHIPMENT
+{ dm: { apple: 2 banana: 1 orange: 2 } } { mgt: { apple: 3 banana: 1 orange: 1 } } { nyt: { apple: 1 banana: 2 orange: 3 } }
+
+ORDER
+{ apple: 5 banana: 5 orange: 5 }
+INVENTORY BEFORE
+{ owd: { apple: 5 orange: 10 } } { dm: { banana: 5 orange: 10 } }
+INVENTORY AFTER
+{ owd: { apple: 0 orange: 5 } } { dm: { banana: 0 orange: 10 } }
+SHIPMENT
+{ dm: { banana: 5 } } { owd: { apple: 5 orange: 5 } }
+
+ORDER
+{ banana: 4 }
+INVENTORY BEFORE
+{ owd: { apple: 5 banana: 0 } } { mgt: { apple: 10 banana: 0 } }
+INVENTORY AFTER
+{ owd: { apple: 5 banana: 0 } } { mgt: { apple: 10 banana: 0 } }
+SHIPMENT
+
+
+ORDER
+{ banana: 4 }
+INVENTORY BEFORE
+{ owd: { apple: 5 } } { mgt: { orange: 10 } }
+INVENTORY AFTER
+{ owd: { apple: 5 } } { mgt: { orange: 10 } }
+SHIPMENT
+
+
+ORDER
+{ apple: 5 banana: 4 orange: 2 }
+INVENTORY BEFORE
+{ owd: { apple: 2 } } { mgt: { apple: 7 orange: 10 } }
+INVENTORY AFTER
+{ owd: { apple: 0 } } { mgt: { apple: 4 orange: 8 } }
+SHIPMENT
+{ mgt: { apple: 3 orange: 2 } } { owd: { apple: 2 } }
+
+ORDER
+{ apple: 1 }
+INVENTORY BEFORE
+{ owd: { apple: -2 } }
+INVENTORY AFTER
+{ owd: { apple: -2 } }
+SHIPMENT

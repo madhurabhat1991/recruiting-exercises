@@ -1,0 +1,13 @@
+C:\Users\madhu\Downloads\src\InventoryAllocator\InventoryAllocator\bin\Debug\netcoreapp3.1\InventoryAllocator.exe
+C:\Users\madhu\Downloads\src\InventoryAllocator\InventoryAllocator\bin\Debug\netcoreapp3.1\InventoryAllocator.deps.json
+C:\Users\madhu\Downloads\src\InventoryAllocator\InventoryAllocator\bin\Debug\netcoreapp3.1\InventoryAllocator.runtimeconfig.json
+C:\Users\madhu\Downloads\src\InventoryAllocator\InventoryAllocator\bin\Debug\netcoreapp3.1\InventoryAllocator.runtimeconfig.dev.json
+C:\Users\madhu\Downloads\src\InventoryAllocator\InventoryAllocator\bin\Debug\netcoreapp3.1\InventoryAllocator.dll
+C:\Users\madhu\Downloads\src\InventoryAllocator\InventoryAllocator\bin\Debug\netcoreapp3.1\InventoryAllocator.pdb
+C:\Users\madhu\Downloads\src\InventoryAllocator\InventoryAllocator\obj\Debug\netcoreapp3.1\InventoryAllocator.csprojAssemblyReference.cache
+C:\Users\madhu\Downloads\src\InventoryAllocator\InventoryAllocator\obj\Debug\netcoreapp3.1\InventoryAllocator.AssemblyInfoInputs.cache
+C:\Users\madhu\Downloads\src\InventoryAllocator\InventoryAllocator\obj\Debug\netcoreapp3.1\InventoryAllocator.AssemblyInfo.cs
+C:\Users\madhu\Downloads\src\InventoryAllocator\InventoryAllocator\obj\Debug\netcoreapp3.1\InventoryAllocator.csproj.CoreCompileInputs.cache
+C:\Users\madhu\Downloads\src\InventoryAllocator\InventoryAllocator\obj\Debug\netcoreapp3.1\InventoryAllocator.dll
+C:\Users\madhu\Downloads\src\InventoryAllocator\InventoryAllocator\obj\Debug\netcoreapp3.1\InventoryAllocator.pdb
+C:\Users\madhu\Downloads\src\InventoryAllocator\InventoryAllocator\obj\Debug\netcoreapp3.1\InventoryAllocator.genruntimeconfig.cache
